@@ -1,6 +1,6 @@
 # Django-aws
 
-Deploy app Django na AWS usando Elastic Beanstalk (windows)
+Deploy app Django na AWS usando Elastic Beanstalk - (windows)
 
 Pré requisitos de instalação para configurar o ambiente.
  - Python 3.6 ou superior
